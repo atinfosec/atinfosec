@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I have been learning about information security and backend development for 1 year.
+I have been learning about information security and backend development for 2 years.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [atinfosec@gmail.com](mailto:atinfosec@gmail.com)
